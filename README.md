@@ -1,3 +1,4 @@
+![giphy](https://user-images.githubusercontent.com/80201586/152941310-e7d4518d-0d61-43e5-9d49-813f99119499.gif)
 - 👋 Hi, I’m @abhinavcs12
 - 👀 I’m interested in learning new technologies 
 - 🌱 I’m currently learning Artificial intelligence and machine learning, Web app development.
